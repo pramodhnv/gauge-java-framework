@@ -1,3 +1,4 @@
 libs/*
 target/*
 reports/*
+gauge_bin/*
