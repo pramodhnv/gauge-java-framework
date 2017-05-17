@@ -1,8 +1,0 @@
-{
-	"Flags": {
-		"-env": "firefox"
-	},
-	"FailedItems": [
-		"specs"
-	]
-}
